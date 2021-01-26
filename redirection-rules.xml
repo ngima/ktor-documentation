@@ -69,7 +69,7 @@
         <accepts>packets.html</accepts>
         <accepts>tools.html</accepts>
 
-        <accepts>migration.html</accepts>
+        <!--<accepts>migration.html</accepts>-->
         <accepts>0-0-beta-3.html</accepts>
         <accepts>0-0.html</accepts>
         <accepts>1-1.html</accepts>
